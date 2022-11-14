@@ -1,3 +1,32 @@
 body{
-    background-color: #F2E7D5;
+    background-color: #F2DEBA;
+    margin: 0%;
+}
+h1, p{
+background-color: #624F82;
+margin: 0px;
+}
+
+.header_name{
+    margin: 0px;
+}
+
+.first_container{
+    background-color: #00a6ff;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
+
+.second_container{
+    background-color: #00ff48;
+    height: 200px;
+    width: 200px;
+}
+
+.third_container{
+    background-color: #FDFF00;
+    height: 200px;
+    width: 200px;
 }
